@@ -1,0 +1,23 @@
+#card-receitas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1em;
+    width: 80%;
+    padding: 2em;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#container-receitas{
+    height: 180vh;
+}
+a{
+    text-decoration: none;
+}
+#active{
+    text-decoration: underline gray;
+}
